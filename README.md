@@ -1,15 +1,15 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=NANCY%20D&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Pragmatic%20Product%20Engineer%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/> <a href="https://linkedin.com/in/nancy1719"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:devnancy1719@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Nancy-Dev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=I+build+systems%2C+not+just+screens.;From+Figma+frame+to+production+API.;Schema+first%2C+UI+second%2C+users+always.;Currently%3A+CSE+undergrad+%40+RMDEC." alt="Typing SVG" /> </div> <br/> <table width="100%"> <tr> <td width="32%" align="center" valign="middle"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="220"/> </td> <td width="68%" valign="middle"> 
 Hi, I'm Nancy ⚡ - 🎓 &nbsp;
  
-🎓 CSE @ R.M.D Engineering College • CGPA 8.64
+🎓 CSE undergraduate @ R.M.D Engineering College • CGPA 8.64
 
-🧩 Figma → React → Database
+💡 Every project starts with a problem, not a framework.
 
-💻 Front-End Intern @ Techvolt Software
+⚡ Designing interfaces, engineering APIs, and structuring databases into one complete product.
 
-🗃️ APIs • Auth • Database Design
+🛠️ Built production-style web applications during my internship at Techvolt Software.
 
-🤝 Open to Software Engineering Roles                                                       
+📌 Currently looking for Software Engineering internships & full-time opportunities.                                                      
 
 </td> 
 </tr> </table> <br/> 
