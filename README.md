@@ -1,39 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=NANCY%20D&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Pragmatic%20Software%20Engineer%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-  <a href="https://linkedin.com/in/nancy1719"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:devnancy1719@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Nancy-Dev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=I+build+systems%2C+not+just+screens.;From+Figma+frame+to+production+API.;Schema+first%2C+UI+second%2C+users+always.;Currently%3A+CSE+undergrad+%40+RMDEC." alt="Typing SVG"/>
-</div>
+# 💫 About Me:
+🎓 R.M.D Engineering College • Computer Science • CGPA 8.64<br><br>💻 Engineering full-stack applications with React, Java, Node.js, and SQL.<br><br>🗂️ Building software where architecture matters as much as the interface.<br><br>🚀 Turning concepts into deployable products.<br><br>🎯 Open to Software Engineering opportunities.
 
-<br/>
 
-<table width="100%">
-<tr>
-<td width="30%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
-</td>
-<td width="70%" valign="middle">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nancy1719/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devnancy1719@gmail.com) 
 
-🎓 CSE undergraduate @ R.M.D Engineering College • CGPA 8.64
-💡 Every project starts with a problem, not a framework.
-⚡ Designing interfaces, engineering APIs, and structuring databases into one complete product.
-🛠️ Built production-style web applications during my internship at Techvolt Software.
-📌 Currently looking for Software Engineering internships & full-time opportunities.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nancy-Dev19&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nancy-Dev19&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nancy-Dev19&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</td>
-</tr>
-</table>
+---
+[![](https://komarev.com/ghpvc/?username=Nancy-Dev19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-2ECC71?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-6C5CE7?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-2D9C4A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/EXPRESS.JS-1E1E1E?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MONGODB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-E74C3C?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/FIREBASE-F7A400?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FIGMA-FF5C8D?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VISUAL_PARADIGM-3D5A80?style=for-the-badge&logo=uml&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy-Dev19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=e2e8f0" width="46%"/> <img src="https://github-readme-stats.vercel.app/api?username=Nancy-Dev19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=e2e8f0" width="46%"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nancy-Dev19&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="60%"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
