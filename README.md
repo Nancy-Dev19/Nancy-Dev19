@@ -1,18 +1,39 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=NANCY%20D&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Pragmatic%20Software%20Engineer%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/> <a href="https://linkedin.com/in/nancy1719"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:devnancy1719@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Nancy-Dev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=I+build+systems%2C+not+just+screens.;From+Figma+frame+to+production+API.;Schema+first%2C+UI+second%2C+users+always.;Currently%3A+CSE+undergrad+%40+RMDEC." alt="Typing SVG" /> </div> <br/> <table width="100%"> <tr> <td width="32%" align="center" valign="middle"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="220"/> </td> <td width="68%" valign="middle"> 
-Hi, I'm Nancy ⚡ - 🎓 &nbsp;
- 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=NANCY%20D&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Pragmatic%20Software%20Engineer%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <a href="https://linkedin.com/in/nancy1719"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:devnancy1719@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Nancy-Dev19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=I+build+systems%2C+not+just+screens.;From+Figma+frame+to+production+API.;Schema+first%2C+UI+second%2C+users+always.;Currently%3A+CSE+undergrad+%40+RMDEC." alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="30%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
+</td>
+<td width="70%" valign="middle">
+
 🎓 CSE undergraduate @ R.M.D Engineering College • CGPA 8.64
-
 💡 Every project starts with a problem, not a framework.
-
 ⚡ Designing interfaces, engineering APIs, and structuring databases into one complete product.
-
 🛠️ Built production-style web applications during my internship at Techvolt Software.
+📌 Currently looking for Software Engineering internships & full-time opportunities.
 
-📌 Currently looking for Software Engineering internships & full-time opportunities.                                                      
+</td>
+</tr>
+</table>
 
-</td> 
-</tr> </table> <br/> 
-Tech Stack 🔧 <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-2ECC71?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/REACT-6C5CE7?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-2D9C4A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/EXPRESS.JS-1E1E1E?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MONGODB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-E74C3C?style=for-the-badge&logo=mysql&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/FIREBASE-F7A400?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FIGMA-FF5C8D?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VISUAL_PARADIGM-3D5A80?style=for-the-badge&logo=uml&logoColor=white"/> </div> <br/> 
+<div align="center">
 
-GitHub Stats 📊 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy-Dev19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=e2e8f0" width="46%"/> <img src="https://github-readme-stats.vercel.app/api?username=Nancy-Dev19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=e2e8f0" width="46%"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nancy-Dev19&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="60%"/> </div> <br/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-2ECC71?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-6C5CE7?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-2D9C4A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/EXPRESS.JS-1E1E1E?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MONGODB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-E74C3C?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/FIREBASE-F7A400?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FIGMA-FF5C8D?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VISUAL_PARADIGM-3D5A80?style=for-the-badge&logo=uml&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy-Dev19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=e2e8f0" width="46%"/> <img src="https://github-readme-stats.vercel.app/api?username=Nancy-Dev19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=e2e8f0" width="46%"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nancy-Dev19&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="60%"/>
+
+</div>
