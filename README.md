@@ -1,4 +1,4 @@
-# 💫 Built Different:
+# ⚡Built Different:
 🎓 R.M.D Engineering College • Computer Science • CGPA 8.64<br>💻 Engineering full-stack applications with React, Java, Node.js, and SQL.<br>🗂️ Building software where architecture matters as much as the interface.<br>🚀 Turning concepts into deployable products.<br>🎯 Open to Software Engineering opportunities.
 
 
