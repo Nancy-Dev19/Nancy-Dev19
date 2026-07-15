@@ -1,9 +1,9 @@
 ### Hi, I'm Nancy ✨
 
-🎓&nbsp; Computer Science and Engineering student at R.M.D Engineering College, Chennai
-🧩&nbsp; I build full-stack products end-to-end — from a Figma frame to a working database schema
-💻&nbsp; Front-End Developer Intern @ Techvolt Software — shipped the Flosun e-commerce platform
-📚&nbsp; Currently sharpening System Design fundamentals + DSA
+🎓&nbsp; Computer Science and Engineering student at R.M.D Engineering College, Chennai<br/>
+🧩&nbsp; I build full-stack products end-to-end — from a Figma frame to a working database schema<br/>
+💻&nbsp; Front-End Developer Intern @ Techvolt Software — shipped the Flosun e-commerce platform<br/>
+📚&nbsp; Currently sharpening System Design fundamentals + DSA<br/>
 🤝&nbsp; Open to Software Engineering internships and full-time roles
 
 ### Tech Stack 🧑‍💻
@@ -16,4 +16,4 @@
 
 ### GitHub Stats 🌱
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nancy-Dev19&theme=github_dark" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nancy-Dev19&theme=github_dark" width="48%"/>
+<img src="https://raw.githubusercontent.com/Nancy-Dev19/Nancy-Dev19/main/assets/languages-card.svg" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nancy-Dev19&theme=github_dark" width="48%"/>
