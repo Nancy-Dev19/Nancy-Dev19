@@ -1,19 +1,18 @@
-### Hi, I'm Nancy ✨
+# 💫 About Me:
+ 🎓 CSE @ R.M.D. Engineering College, Chennai<br>⚙️ Full-Stack Engineer in the making<br>🛠️ Building scalable, production-ready software<br>💻 Former Front-End Developer Intern<br>🧠 Exploring DSA • System Design • Backend<br>🚀 Turning ideas into real-world applications<br>🤝 Open to Software Engineering opportunities
 
-🎓&nbsp; Computer Science and Engineering student at R.M.D Engineering College, Chennai<br/>
-🧩&nbsp; I build full-stack products end-to-end — from a Figma frame to a working database schema<br/>
-💻&nbsp; Front-End Developer Intern @ Techvolt Software — shipped the Flosun e-commerce platform<br/>
-📚&nbsp; Currently sharpening System Design fundamentals + DSA<br/>
-🤝&nbsp; Open to Software Engineering internships and full-time roles
 
-### Tech Stack 🧑‍💻
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nancy1719/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devnancy1719@gmail.com) 
 
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-2ECC71?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nancy-Dev19&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nancy-Dev19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nancy-Dev19&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://img.shields.io/badge/REACT-6C5CE7?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-2D9C4A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/EXPRESS.JS-1E1E1E?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MONGODB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+---
+[![](https://komarev.com/ghpvc/?username=Nancy-Dev19&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://img.shields.io/badge/FIREBASE-F7A400?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FIGMA-FF5C8D?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white"/>
-
-### GitHub Stats 🌱
-
-<img src="https://raw.githubusercontent.com/Nancy-Dev19/Nancy-Dev19/main/assets/languages-card.svg" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nancy-Dev19&theme=github_dark" width="48%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
